@@ -3,16 +3,16 @@
   <h1 > <b>💈 Barber Shop Duhel </b></h1>
   <p> Website feito para o projeto final do 2º Módulo da matéria de PW2.</p>
   
-  - <a href="http://barberduhel.onlinewebshop.net/login.php" target="_blank"><p>Visite o site clicando aqui</p></a>
+  - <a href="http://barberduhel.onlinewebshop.net/" target="_self"><p>Visite o site clicando aqui</p></a>
 </div>
 
 <br>
 
   ## 📎 Autores 
  
-  - <a target="_blank" href="https://github.com/hmiranda99"> 👨‍💻 Helena Miranda </a>
+  - <a target="_self" href="https://github.com/hmiranda99"> 👨‍💻 Helena Miranda </a>
  
-  - <a target="_blank" href="https://github.com/DuS0usa"> 👨‍💻 Eduardo Sousa </a>
+  - <a target="_self" href="https://github.com/DuS0usa"> 👨‍💻 Eduardo Sousa </a>
 
 <br>
   
