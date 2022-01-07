@@ -1,31 +1,21 @@
 
 <div align="center">
-  <h1 align="center"> <b>Barber Shop Duhel </b></h1>
-  <p align="center"> Website feito para o projeto final do 2º Módulo da matéria de PW2.</p>
-  <a href="http://barberduhel.onlinewebshop.net/login.php"><p align="center" >Visite o site</p></a>
+  <img height="150" width="150" src="https://i.imgur.com/qwAgpVJ.png" align="right">
+  <h1 > <b>Barber Shop Duhel </b></h1>
+  <p> Website feito para o projeto final do 2º Módulo da matéria de PW2.</p>
+  <a href="http://barberduhel.onlinewebshop.net/login.php"><p>Visite o site</p></a>
 </div>
 
 <br>
 
-
-
-
-<div style="display: inline" align="center"><br>
-   <div style="display: float">
-    <img alt="Eduardo" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qyEJoaH8FbagBxvWqA/giphy.gif">
-    <p>Edu Sousa</p>
-   </div>
-   <div>
-    <img alt="Eduardo" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qyEJoaH8FbagBxvWqA/giphy.gif">
-    <p>Edu Sousa</p>
-   </div>  
 <div>
-
-
-
-
-
-
+  <h1> Autores </h1>
+  
+  
+  - <a target="_blank" href="https://github.com/hmiranda99"> Helena Miranda </a>
+  
+  - <a target="_blank" href="https://github.com/DuS0usa"> Eduardo Sousa </a>
+</div>
 
 <br><br><br>
 
